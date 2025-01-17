@@ -1,13 +1,16 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-01-14"
-categories: [news]
+title: "My Experience As A UBC MDS student"
+author: "Merari Santana-Carbajal"
+date: "2025-01-17"
+categories: [Blog]
 ---
 
-This is the first post in a Quarto blog. Welcome! Merari is testing this!
+Introduction: 
+
+In October 2024, I received an unexpected call from a former colleague asking for advice on applying to graduate school for data science. I gave her my honest opinion—I wasn’t sure if I had made the right decision in joining the University of British Columbia’s Master of Data Science (MDS) program. Looking back, I wish I had told her to call me again after a few more months of trial and error. Now, I’m ready to share my experience and what I’ve learned as a person of color pursuing a master’s degree in UBC’s MDS program. 
 
 ![](thumbnail.jpg)
+![](UBC_merari.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
 
