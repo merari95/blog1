@@ -27,6 +27,9 @@ In the third week of each block, quizzes are given to test the students' knowled
 ![Figure 2: Breakdown of MDS weekly schedule](block_breakdown.jpg){fig-align="center"}
 
 
+
+
+
 ![Figure 3: MDS Program Schedule. Image from MDS website.](MDS_schedule.jpg)
 
 ### My Challenges
@@ -45,4 +48,31 @@ I realized that the goal of MDS isn’t to get straight A’s but to develop a s
 
 In addition to improving my study habits, I started receiving mental health counseling to better manage my anxiety. I incorporated exercise breaks into my study routine and dedicated one day per week—after finishing my lab assignments—to completely disconnect from academic work. I focused on taking things one day at a time. To stay motivated, I created an affirmation board to remind myself of my goals and why I was pursuing this degree. 
 
-After the two-week winter break, I returned to school with a shifted mindset: instead of wondering if I would graduate, I told myself when I graduate. 
+After the two-week winter break, I returned to school with a shifted mindset: instead of wondering *if* I would graduate, I told myself *when* I graduate.
+
+### How to Succeed in MDS
+
+If you are considering or currently enrolled in the MDS program, here are some key strategies to help you succeed: 
+
+Mentally prepare for the intensity – The MDS program is a rigorous data science curriculum compressed into 10 months. The first few weeks will be the hardest as you adjust to the fast-paced workflow. 
+
+Strengthen your coding skills beforehand – If you don’t have a technical background, I highly recommend taking Python courses. Here’s a great beginner’s[Python bootcamp](https://www.udemy.com/course/100-days-of-code/) available at a set price. Another[Python resource](https://cs50.harvard.edu/python/2022/) is accessible for free. 
+
+Use MDS resources – The MDS Slack channel (Figure 3) is a great tool for communicating with peers and professors. 
+
+Seek help early – Attend office hours if you need clarification on topics. Lab sections are also valuable for getting additional assistance from professors and teaching assistants. 
+
+Plan your assignments – If you like to organize your tasks, you can use GitHub’s project management feature (link 5) (Figure 4) to structure your schedule. 
+
+Prioritize your mental health – If you struggle with mental health, visit UBC’s mental health resources (link 6) for support. Take study breaks and dedicate one day per week to relaxation to prevent burnout. 
+
+Collaborate with peers – Working with classmates is an effective way to consolidate information and improve your understanding of key concepts. 
+
+Reach out to student representatives – The MDS program has student reps for mental health, international students, social activities, and more. Don’t hesitate to contact them for support. 
+
+Communicate with professors – If you’re struggling with the material, talk to your professors about strategies for improvement. They are there to help you succeed. 
+
+Stay consistent – Attend classes, complete your work, and put in your best effort. If you do this, you will succeed in the program. 
+
+ 
+![Figure 4: Example of GitHub Projects planner. Image from GitHub.](github_projects.jpg)
