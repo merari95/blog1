@@ -19,16 +19,16 @@ In October 2024, I received an unexpected call from a former colleague asking fo
 
 My name is Merari Santana-Carbajal. I’m 29 years old and was born in Southern California. I am the daughter of two Mexican immigrant parents and the first in my family to graduate from a four-year college. I studied general biology at the University of California, San Diego, graduating in 2017. Shortly after, I worked in various labs performing DNA sequencing for cancer research. 
 
-Although I enjoyed my work, I noticed that vast amounts of data were being generated but remained unanalyzed. This sparked my interest in data science, and I spent several years contemplating a return to school. When I first came across the UBC Master of Data Science [program](https://masterdatascience.ubc.ca/programs/vancouver), I was immediately drawn to its short, 10-month structure and its acceptance of students from non-technical backgrounds. So, I decided to apply. When I received my acceptance letter, I was elated and ready to embark on this new chapter of my life. 
+Although I enjoyed my work, I noticed that vast amounts of data were being generated but remained unanalyzed. This sparked my interest in data science, and I spent several years contemplating a return to school. When I first came across the UBC Master of Data Science [program](https://masterdatascience.ubc.ca/programs/vancouver), I was immediately drawn to its short, 10-month structure, its acceptance of students from non-technical backgrounds, and its distinction as one of the first master's programs in data science. So, I decided to apply. When I received my acceptance letter, I was elated and ready to embark on this new chapter of my life. 
 
 ### MDS Program Structure
 
-UBC’s MDS program consists of six blocks and a final capstone project. Each block lasts about a month and includes four courses. Every week, students attend two lectures per course and complete a comprehensive lab assignment for each class. 
+UBC’s MDS program consists of six blocks and a final capstone project (see @fig-MDS)). Each block lasts about a month and includes four courses. Every week, students attend two lectures per course and complete a comprehensive lab assignment for each class. 
 
 In the third week of each block, quizzes are given to test the students' knowledge. During this same week, students are simultaneously learning new material and working on lab assignments. After the fourth week, final quizzes assess the content from the last two weeks. 
 
 
-![Breakdown of MDS weekly schedule](block_breakdown.jpg){#fig-block fig-align="center" fig-cap="MDS block."}
+![Breakdown of MDS weekly schedule. Image by Author.](block_breakdown.jpg){#fig-block fig-align="center" fig-cap="MDS block."}
 
 
 
@@ -75,7 +75,7 @@ If you are considering or currently enrolled in the MDS program, here are some k
 
 * Reach out to student representatives – The MDS program has student reps for mental health, international students, social activities, and more. Don’t hesitate to contact them for support. 
 
-* Communicate with professors – If you’re struggling with the material, talk to your professors about strategies for improvement. They are there to help you succeed. 
+* Communicate with professors – If you’re struggling with the material, talk to your professors about strategies for improvement. They are there to help you succeed! 
 
 * Stay consistent – Attend classes, complete your work, and put in your best effort. If you do this, you will succeed in the program. 
 
