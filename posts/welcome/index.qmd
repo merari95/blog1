@@ -30,7 +30,7 @@ In the third week of each block, quizzes are given to test the students' knowled
 
 
 
-![Figure 3: MDS Program Schedule. Image from MDS website.](MDS_schedule.jpg)
+![Figure 3: MDS Program Schedule. Image from MDS website.](MDS_schedule.jpg){fig-align="center"}
 
 ### My Challenges
 
@@ -58,13 +58,13 @@ Mentally prepare for the intensity – The MDS program is a rigorous data scienc
 
 Strengthen your coding skills beforehand – If you don’t have a technical background, I highly recommend taking Python courses. Here’s a great beginner’s[Python bootcamp](https://www.udemy.com/course/100-days-of-code/) available at a set price. Another[Python resource](https://cs50.harvard.edu/python/2022/) is accessible for free. 
 
-Use MDS resources – The MDS Slack channel (Figure 3) is a great tool for communicating with peers and professors. 
+Use MDS resources – The MDS Slack channel ([Figure 4](#fig-slack)) is a great tool for communicating with peers and professors. 
 
 Seek help early – Attend office hours if you need clarification on topics. Lab sections are also valuable for getting additional assistance from professors and teaching assistants. 
 
-Plan your assignments – If you like to organize your tasks, you can use GitHub’s project management feature (link 5) (Figure 4) to structure your schedule. 
+Plan your assignments – If you like to organize your tasks, you can use GitHub’s [Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) ([Figure 5](#fig-github-projects)) to manage your schedule. 
 
-Prioritize your mental health – If you struggle with mental health, visit UBC’s mental health resources (link 6) for support. Take study breaks and dedicate one day per week to relaxation to prevent burnout. 
+Prioritize your mental health – If you struggle with mental health, visit [UBC’s mental health resources](https://students.ubc.ca/health/counselling-services/mental-health-care-ubc/) for support. Take study breaks and dedicate one day per week to relaxation to prevent burnout. 
 
 Collaborate with peers – Working with classmates is an effective way to consolidate information and improve your understanding of key concepts. 
 
@@ -74,5 +74,18 @@ Communicate with professors – If you’re struggling with the material, talk t
 
 Stay consistent – Attend classes, complete your work, and put in your best effort. If you do this, you will succeed in the program. 
 
+ ![Figure 4: Example of a Slack message. Image from Slack.](slack_message.jpg){#fig-slack fig-align="center"}
+
+
+![Figure 5: GitHub Projects layout. Image from GitHub.](github_projects.jpg){#fig-github-projects fig-align="center"}
+
+
+### Conclusion
+
+If you are struggling in MDS, remember that you are not alone. Most students face similar challenges, even if they don’t openly talk about them. Take advantage of the resources provided by UBC and the MDS program. 
+
+If I have the opportunity to speak with my former colleague again, I will tell her with confidence: I made the right decision to study in MDS. Anything worthwhile requires hard work. 
+
  
-![Figure 4: Example of GitHub Projects planner. Image from GitHub.](github_projects.jpg)
+
+*Thank you for taking the time to read my blog. Please feel free to reach out if you need advice on managing your coursework or if you’d like to connect! You can find me on LinkedIn [here](https://www.linkedin.com/in/merari-santana-carbajal-b2064314a/). *
