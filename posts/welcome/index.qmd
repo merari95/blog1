@@ -23,7 +23,7 @@ Although I enjoyed my work, I noticed that vast amounts of data were being gener
 
 ### MDS Program Structure
 
-UBC’s MDS program consists of six blocks and a final capstone project (see @fig-MDS)). Each block lasts about a month and includes four courses. Every week, students attend two lectures per course and complete a comprehensive lab assignment for each class. 
+UBC’s MDS program consists of six blocks and a final capstone project (see @fig-MDS). Each block lasts about a month and includes four courses. Every week, students attend two lectures per course and complete a comprehensive lab assignment for each class. 
 
 In the third week of each block, quizzes are given to test the students' knowledge. During this same week, students are simultaneously learning new material and working on lab assignments. After the fourth week, final quizzes assess the content from the last two weeks. 
 
@@ -108,3 +108,17 @@ If I have the opportunity to speak with my former colleague again, I will tell h
 
 
 *Thank you for taking the time to read my blog. Please feel free to reach out if you need advice on managing your coursework or if you’d like to connect! You can find me on LinkedIn [here](https://www.linkedin.com/in/merari-santana-carbajal-b2064314a/). *
+
+
+### References
+
+Harvard University. (2022). CS50’s introduction to programming with Python. Harvard CS50. https://cs50.harvard.edu/python/2022/
+
+GitHub. (n.d.). GitHub: Where the world builds software. GitHub. https://github.com/
+
+University of British Columbia. (n.d.). Mental health care at UBC. UBC Student Services. https://students.ubc.ca/health/counselling-services/mental-health-care-ubc/
+
+University of British Columbia. (n.d.). UBC Master of Data Science - Vancouver. UBC MDS. https://masterdatascience.ubc.ca/programs/vancouver
+
+Yu, A. (n.d.). 100 days of code - The complete Python pro bootcamp for 2023. Udemy. https://www.udemy.com/course/100-days-of-code/
+
