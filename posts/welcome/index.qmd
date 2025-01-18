@@ -76,12 +76,12 @@ Stay consistent – Attend classes, complete your work, and put in your best eff
 
 
 
- ![Figure 4: Example of a Slack message. Image from Slack.](slack_message.jpg){fig-slack fig-align="center"}
+ ![Figure 4: Example of a Slack message. Image from Slack.](slack_message.jpg){#fig-slack fig-align="center"}
 
 
 
 
-![Figure 5: GitHub Projects layout. Image from GitHub.](github_projects.jpg){fig-github-projects fig-align="center"}
+![Figure 5: GitHub Projects layout. Image from GitHub.](github_projects.jpg){#fig-github-projects fig-align="center"}
 
 
 ### Conclusion
