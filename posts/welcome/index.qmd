@@ -24,4 +24,7 @@ UBC’s MDS program consists of six blocks and a final capstone project. Each bl
 
 In the third week of each block, quizzes are given to test the students' knowledge. During this same week, students are simultaneously learning new material and working on lab assignments. After the fourth week, final quizzes assess the content from the last two weeks. 
 
-![Figure 2: Breakdown of MDS weekly schedule](block_breakdown.jpg)
+![Figure 2: Breakdown of MDS weekly schedule](block_breakdown.jpg){fig-align="center"}
+
+
+![Figure 3: MDS Program Schedule. Image from MDS website.](MDS_schedule.jpg)
