@@ -60,11 +60,11 @@ Mentally prepare for the intensity – The MDS program is a rigorous data scienc
 
 Strengthen your coding skills beforehand – If you don’t have a technical background, I highly recommend taking Python courses. Here’s a great beginner’s [Python bootcamp](https://www.udemy.com/course/100-days-of-code/) available at a set price. Another [Python resource](https://cs50.harvard.edu/python/2022/) is accessible for free. 
 
-Use MDS resources – The MDS Slack channel ([Figure 4](#fig-slack)) is a great tool for communicating with peers and professors. 
+Use MDS resources – The MDS Slack channel (see @fig-slack) is a great tool for communicating with peers and professors. 
 
 Seek help early – Attend office hours if you need clarification on topics. Lab sections are also valuable for getting additional assistance from professors and teaching assistants. 
 
-Plan your assignments – If you like to organize your tasks, you can use GitHub’s [Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) ([Figure 5](#fig-github-projects)) to manage your schedule. 
+Plan your assignments – If you like to organize your tasks, you can use GitHub’s [Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)  (see @fig-github) to manage your schedule. 
 
 Prioritize your mental health – If you struggle with mental health, visit [UBC’s mental health resources](https://students.ubc.ca/health/counselling-services/mental-health-care-ubc/) for support. Take study breaks and dedicate one day per week to relaxation to prevent burnout. 
 
@@ -77,15 +77,14 @@ Communicate with professors – If you’re struggling with the material, talk t
 Stay consistent – Attend classes, complete your work, and put in your best effort. If you do this, you will succeed in the program. 
 
 
-(see @fig-github)
+(see @fig-slack)
 
 
 
-![Figure 4: Example of a Slack message. Image from Slack.](slack_message.jpg){#fig-slack fig-align="center"}
 
 
 
-![Figure 5: GitHub Projects layout. Image from GitHub.](github_projects.jpg){#fig-github-projects fig-align="center"}
+![Example of a Slack message. Image from Slack.](slack_message.jpg){#fig-slack fig-align="center" fig-cap="slack message."}
 
 
 ![GitHub Projects layout. Image from GitHub.](github_projects.jpg){#fig-github fig-align="center" fig-cap="GitHub Projects layout."}
