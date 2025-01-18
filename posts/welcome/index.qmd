@@ -48,7 +48,7 @@ I realized that the goal of MDS isn’t to get straight A’s but to develop a s
 
 In addition to improving my study habits, I started receiving mental health counseling to better manage my anxiety. I incorporated exercise breaks into my study routine and dedicated one day per week—after finishing my lab assignments—to completely disconnect from academic work. I focused on taking things one day at a time. To stay motivated, I created an affirmation board to remind myself of my goals and why I was pursuing this degree. 
 
-After the two-week winter break, I returned to school with a shifted mindset: instead of wondering *if* I would graduate, I told myself *when* I graduate.
+After the two-week winter break, I returned to school with a shifted mindset: instead of wondering *if*  I would graduate, I told myself *when* I graduate.
 
 ### How to Succeed in MDS
 
@@ -56,7 +56,7 @@ If you are considering or currently enrolled in the MDS program, here are some k
 
 Mentally prepare for the intensity – The MDS program is a rigorous data science curriculum compressed into 10 months. The first few weeks will be the hardest as you adjust to the fast-paced workflow. 
 
-Strengthen your coding skills beforehand – If you don’t have a technical background, I highly recommend taking Python courses. Here’s a great beginner’s[Python bootcamp](https://www.udemy.com/course/100-days-of-code/) available at a set price. Another[Python resource](https://cs50.harvard.edu/python/2022/) is accessible for free. 
+Strengthen your coding skills beforehand – If you don’t have a technical background, I highly recommend taking Python courses. Here’s a great beginner’s [Python bootcamp](https://www.udemy.com/course/100-days-of-code/) available at a set price. Another [Python resource](https://cs50.harvard.edu/python/2022/) is accessible for free. 
 
 Use MDS resources – The MDS Slack channel ([Figure 4](#fig-slack)) is a great tool for communicating with peers and professors. 
 
@@ -74,10 +74,14 @@ Communicate with professors – If you’re struggling with the material, talk t
 
 Stay consistent – Attend classes, complete your work, and put in your best effort. If you do this, you will succeed in the program. 
 
- ![Figure 4: Example of a Slack message. Image from Slack.](slack_message.jpg){#fig-slack fig-align="center"}
 
 
-![Figure 5: GitHub Projects layout. Image from GitHub.](github_projects.jpg){#fig-github-projects fig-align="center"}
+ ![Figure 4: Example of a Slack message. Image from Slack.](slack_message.jpg){fig-slack fig-align="center"}
+
+
+
+
+![Figure 5: GitHub Projects layout. Image from GitHub.](github_projects.jpg){fig-github-projects fig-align="center"}
 
 
 ### Conclusion
@@ -87,5 +91,7 @@ If you are struggling in MDS, remember that you are not alone. Most students fac
 If I have the opportunity to speak with my former colleague again, I will tell her with confidence: I made the right decision to study in MDS. Anything worthwhile requires hard work. 
 
  
+
+
 
 *Thank you for taking the time to read my blog. Please feel free to reach out if you need advice on managing your coursework or if you’d like to connect! You can find me on LinkedIn [here](https://www.linkedin.com/in/merari-santana-carbajal-b2064314a/). *
