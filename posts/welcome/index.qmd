@@ -3,6 +3,8 @@ title: "My Experience as a UBC MDS Student"
 author: "Merari Santana-Carbajal"
 date: "2025-01-17"
 categories: [Blog]
+fig-cap-location: bottom
+number-sections: true
 ---
 
 ### Introduction
@@ -75,13 +77,19 @@ Communicate with professors – If you’re struggling with the material, talk t
 Stay consistent – Attend classes, complete your work, and put in your best effort. If you do this, you will succeed in the program. 
 
 
+(see @fig-github)
 
- ![Figure 4: Example of a Slack message. Image from Slack.](slack_message.jpg){#fig-slack fig-align="center"}
 
+
+![Figure 4: Example of a Slack message. Image from Slack.](slack_message.jpg){#fig-slack fig-align="center"}
 
 
 
 ![Figure 5: GitHub Projects layout. Image from GitHub.](github_projects.jpg){#fig-github-projects fig-align="center"}
+
+
+![GitHub Projects layout. Image from GitHub.](github_projects.jpg){#fig-github fig-align="center" fig-cap="GitHub Projects layout."}
+
 
 
 ### Conclusion
